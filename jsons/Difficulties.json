@@ -255,7 +255,7 @@
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		//"aiCityStateBonusStartingUnits": [],
-   "aiCityStateBonusStartingUnits": [ { "unit": "Archer", "amount": 2 } ],
+   "aiCityStateBonusStartingUnits": [ { Archer } ],
 		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
