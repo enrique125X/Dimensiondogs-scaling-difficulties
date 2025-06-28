@@ -254,7 +254,8 @@
 		"aiUnitSupplyModifier": 0.4,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [],
+		//"aiCityStateBonusStartingUnits": [],
+   "aiCityStateBonusStartingUnits": [ "unit": "Crossbowman", "amount":2]
 		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
