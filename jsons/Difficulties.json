@@ -246,7 +246,7 @@
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.6, // that is to say it'll take them 1.6 times as long to grow the city
-		"aiUnitCostModifier": 0.6,
+		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 0.5,
 		"aiWonderCostModifier": 0.5,
 		"aiBuildingMaintenanceModifier": 0.5,
