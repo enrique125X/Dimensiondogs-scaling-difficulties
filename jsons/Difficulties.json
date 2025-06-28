@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Settler",
-		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 0,
+		"baseHappiness": 15,
+		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
@@ -233,7 +233,7 @@
 	},
     	{
 		"name": "Deity",
-		"baseHappiness": 10,
+		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
@@ -247,10 +247,10 @@
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.6, // that is to say it'll take them 1.6 times as long to grow the city
 		"aiUnitCostModifier": 0.6,
-		"aiBuildingCostModifier": 0.6,
-		"aiWonderCostModifier": 0.6,
-		"aiBuildingMaintenanceModifier": 0.6,
-		"aiUnitMaintenanceModifier": 0.6,
+		"aiBuildingCostModifier": 0.5,
+		"aiWonderCostModifier": 0.5,
+		"aiBuildingMaintenanceModifier": 0.5,
+		"aiUnitMaintenanceModifier": 0.5,
 		"aiUnitSupplyModifier": 0.4,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
